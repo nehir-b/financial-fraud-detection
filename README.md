@@ -6,11 +6,9 @@ Behavioral fraud analysis and anomaly detection using Python, SQL, Excel, and Ta
 
 ## Project Overview
 
-This project explores behavioral fraud patterns in credit card transactions through analytical dashboards, 
-statistical exploration, geospatial analysis, and transaction trend analysis.
+This project explores behavioral fraud patterns in credit card transactions through analytical dashboards, statistical exploration, geospatial analysis, and transaction trend analysis.
 
-The analysis focuses on identifying fraud-related behavioral signals, 
-transaction distribution patterns, category-level fraud exposure, and temporal fraud trends.
+The analysis focuses on identifying fraud-related behavioral signals, transaction distribution patterns, category-level fraud exposure, and temporal fraud trends.
 
 ---
 
@@ -20,8 +18,7 @@ transaction distribution patterns, category-level fraud exposure, and temporal f
   <img src="Python_Dashboard_Preview.png" width="95%" />
 </p>
 
-Python-based analytical dashboard exploring fraud behavior patterns, 
-transaction distributions, temporal trends, and feature relationships.
+Python-based analytical dashboard exploring fraud behavior patterns, transaction distributions, temporal trends, and feature relationships.
 
 ---
 
@@ -41,8 +38,7 @@ Business-oriented reporting dashboard created in Excel for KPI monitoring and ex
   <img src="Tableau_Dashboard_Preview.png" width="95%" />
 </p>
 
-Interactive Tableau dashboard focused on geographic fraud patterns, 
-transaction behavior, category-level analysis, and monthly transaction trends.
+Interactive Tableau dashboard focused on geographic fraud patterns, transaction behavior, category-level analysis, and monthly transaction trends.
 
 ---
 
@@ -78,6 +74,13 @@ transaction behavior, category-level analysis, and monthly transaction trends.
 - `project_overview.pdf`
 
 ---
+
+## Future Improvements
+
+- Machine learning fraud prediction models
+- Real-time anomaly detection systems
+- Interactive web-based dashboard deployment
+- Advanced behavioral segmentation analysis
 
 ## Future Improvements
 
