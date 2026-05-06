@@ -17,7 +17,7 @@ transaction distribution patterns, category-level fraud exposure, and temporal f
 ## Python Dashboard Preview
 
 <p align="center">
-  <img src="python_dashboard_preview.png" width="95%" />
+  <img src="Python_Dashboard_Preview.png" width="95%" />
 </p>
 
 Python-based analytical dashboard exploring fraud behavior patterns, 
@@ -28,7 +28,7 @@ transaction distributions, temporal trends, and feature relationships.
 ## Excel Dashboard Preview
 
 <p align="center">
-  <img src="excel_dashboard_preview.png" width="95%" />
+  <img src="Excel_Dashboard_Preview.png" width="95%" />
 </p>
 
 Business-oriented reporting dashboard created in Excel for KPI monitoring and executive-level summaries.
@@ -38,7 +38,7 @@ Business-oriented reporting dashboard created in Excel for KPI monitoring and ex
 ## Tableau Dashboard Preview
 
 <p align="center">
-  <img src="tableau_dashboard_preview.png" width="95%" />
+  <img src="Tableau_Dashboard_Preview.png" width="95%" />
 </p>
 
 Interactive Tableau dashboard focused on geographic fraud patterns, 
